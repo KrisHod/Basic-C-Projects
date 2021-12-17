@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Daily Report Project\bin\Debug\Daily Report Project.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Daily Report Project\bin\Debug\Daily Report Project.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Daily Report Project\bin\Debug\Daily Report Project.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Daily Report Project\obj\Debug\Daily Report Project.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Daily Report Project\obj\Debug\Daily Report Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Daily Report Project\obj\Debug\Daily Report Project.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Daily Report Project\obj\Debug\Daily Report Project.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Daily Report Project\obj\Debug\Daily Report Project.pdb

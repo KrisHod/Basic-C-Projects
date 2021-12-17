@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.deps.json
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.runtimeconfig.json
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.dll
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\ref\myConsoleProject.dll
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.dll
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\ref\myConsoleProject.dll
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.genruntimeconfig.cache
