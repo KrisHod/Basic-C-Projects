@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Price-Quote Application\bin\Debug\Price-Quote Application.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Price-Quote Application\bin\Debug\Price-Quote Application.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Price-Quote Application\bin\Debug\Price-Quote Application.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Price-Quote Application\obj\Debug\Price-Quote Application.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Price-Quote Application\obj\Debug\Price-Quote Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Price-Quote Application\obj\Debug\Price-Quote Application.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Price-Quote Application\obj\Debug\Price-Quote Application.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Price-Quote Application\obj\Debug\Price-Quote Application.pdb
