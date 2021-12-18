@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.pdb
