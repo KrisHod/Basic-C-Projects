@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\String Assignment\bin\Debug\String Assignment.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\String Assignment\bin\Debug\String Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\String Assignment\bin\Debug\String Assignment.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\String Assignment\obj\Debug\String Assignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\String Assignment\obj\Debug\String Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\String Assignment\obj\Debug\String Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\String Assignment\obj\Debug\String Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\String Assignment\obj\Debug\String Assignment.pdb
