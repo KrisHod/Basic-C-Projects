@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Loop Assignment\bin\Debug\Loop Assignment.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Loop Assignment\bin\Debug\Loop Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Loop Assignment\bin\Debug\Loop Assignment.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Loop Assignment\obj\Debug\Loop Assignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Loop Assignment\obj\Debug\Loop Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Loop Assignment\obj\Debug\Loop Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Loop Assignment\obj\Debug\Loop Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Loop Assignment\obj\Debug\Loop Assignment.pdb
