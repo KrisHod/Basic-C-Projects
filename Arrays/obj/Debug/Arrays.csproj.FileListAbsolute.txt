@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Arrays\bin\Debug\Arrays.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Arrays\obj\Debug\Arrays.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Arrays\obj\Debug\Arrays.pdb
