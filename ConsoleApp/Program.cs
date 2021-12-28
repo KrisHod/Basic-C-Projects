@@ -18,9 +18,8 @@ namespace ConsoleApp
                 }
                 else{
                     Console.WriteLine(name);
-                }
-
-            newList.Add(name);
+                    newList.Add(name);
+                }     
             }
             Console.Read();
           
