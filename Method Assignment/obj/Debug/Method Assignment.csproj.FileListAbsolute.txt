@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Method Assignment\bin\Debug\Method Assignment.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Method Assignment\bin\Debug\Method Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Method Assignment\bin\Debug\Method Assignment.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Method Assignment\obj\Debug\Method Assignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Method Assignment\obj\Debug\Method Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Method Assignment\obj\Debug\Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Method Assignment\obj\Debug\Method Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Method Assignment\obj\Debug\Method Assignment.pdb
