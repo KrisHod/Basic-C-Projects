@@ -15,7 +15,82 @@
       "ProjectGuid": "6faf2dfe-017b-40c8-a14b-38f88332be6f",
       "DisplayName": "Math Operation Assignment",
       "ColorIndex": 2
+    },
+    "cc8c6d3e-0896-4358-b7ef-6d5bc9e39f1c": {
+      "ProjectGuid": "cc8c6d3e-0896-4358-b7ef-6d5bc9e39f1c",
+      "DisplayName": "Income Comparison Assignment",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0d777a4f-bfd1-4480-856f-3b9769f70967": {
+      "ProjectGuid": "0d777a4f-bfd1-4480-856f-3b9769f70967",
+      "DisplayName": "Boolean Logic Assignment",
+      "ColorIndex": 4
+    },
+    "a2bd2faa-608a-440e-a937-fa113ec60b40": {
+      "ProjectGuid": "a2bd2faa-608a-440e-a937-fa113ec60b40",
+      "DisplayName": "Price-Quote Application",
+      "ColorIndex": 5
+    },
+    "f7d319f2-76e1-4620-b9c6-848011576cc3": {
+      "ProjectGuid": "f7d319f2-76e1-4620-b9c6-848011576cc3",
+      "DisplayName": "Loop Assignment",
+      "ColorIndex": 6
+    },
+    "9bdebe72-9174-4483-aef3-0ac07cad6d9d": {
+      "ProjectGuid": "9bdebe72-9174-4483-aef3-0ac07cad6d9d",
+      "DisplayName": "String Assignment",
+      "ColorIndex": 7
+    },
+    "57df82c3-88aa-4f81-9363-f8c2d89fe7fb": {
+      "ProjectGuid": "57df82c3-88aa-4f81-9363-f8c2d89fe7fb",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 8
+    },
+    "c529ddfa-e10a-4dbe-a399-dbd4fdbf6b4d": {
+      "ProjectGuid": "c529ddfa-e10a-4dbe-a399-dbd4fdbf6b4d",
+      "DisplayName": "Exception Assignment",
+      "ColorIndex": 9
+    },
+    "5313f183-2a2c-4659-bb17-8caa07773669": {
+      "ProjectGuid": "5313f183-2a2c-4659-bb17-8caa07773669",
+      "DisplayName": "Method Assignment",
+      "ColorIndex": 10
+    },
+    "96918055-354d-4cd7-896b-6302ccae3869": {
+      "ProjectGuid": "96918055-354d-4cd7-896b-6302ccae3869",
+      "DisplayName": "Classes and Methods Assignment 1",
+      "ColorIndex": 11
+    },
+    "032e30bb-1075-417b-bc71-5cbeb51a4ca3": {
+      "ProjectGuid": "032e30bb-1075-417b-bc71-5cbeb51a4ca3",
+      "DisplayName": "Classes and Methods Assignment 2",
+      "ColorIndex": 12
+    },
+    "c5aa1ec6-acb8-4a08-9df5-2e928b186d87": {
+      "ProjectGuid": "c5aa1ec6-acb8-4a08-9df5-2e928b186d87",
+      "DisplayName": "Classes and Methods Assignment 3",
+      "ColorIndex": 13
+    },
+    "8935d19d-64fa-4bd5-b5d3-3a060991b4be": {
+      "ProjectGuid": "8935d19d-64fa-4bd5-b5d3-3a060991b4be",
+      "DisplayName": "Class Method Assignment",
+      "ColorIndex": 14
+    },
+    "543bda26-fd7d-45cb-bc3b-87d111f534c9": {
+      "ProjectGuid": "543bda26-fd7d-45cb-bc3b-87d111f534c9",
+      "DisplayName": "Inheritance Assignment",
+      "ColorIndex": 15
+    },
+    "c16822b7-013b-40a6-81bb-59203db13f82": {
+      "ProjectGuid": "c16822b7-013b-40a6-81bb-59203db13f82",
+      "DisplayName": "Abstract Classes Assignment",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 1
 }

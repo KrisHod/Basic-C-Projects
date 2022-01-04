@@ -5,6 +5,7 @@
 //Create another class called Employee and have it inherit from the Person class. Give the Employee class a property called Id and have it be of data type int.
 //Inside of the Main method, instantiate and initialize an Employee object with a first name of "Sample" and a last name of "Student".
 //Call the superclass method SayName() on the Employee object.
+//Overload the "==" operator so it checks if two Employee objects are equal by comparing their Id property.
 
 namespace Inheritance_Assignment
 {
@@ -12,9 +13,13 @@ namespace Inheritance_Assignment
     {
         static void Main()
         {
-            Employee employee = new Employee() { FirstName="Kristina", LastName="Hodomska"};
-            employee.SayName();
+            Employee employee1 = new Employee() { FirstName="Kristina", LastName="Hodomska", Id=2};
+            employee1.SayName();
             Console.Read();
+
+            Employee employee2 = new Employee() { Id=1 };
+            Console.WriteLine(employee1 == employee2);
+            Console.ReadLine();
         }
     }
 }

@@ -9,5 +9,9 @@ namespace Inheritance_Assignment
     internal class Employee: Person
     {
         public int Id { get; set; }
+
+        public static bool operator== (Employee emp1, Employee emp2){
+        return emp1.Id==emp2.Id;
+        }
     }
 }
