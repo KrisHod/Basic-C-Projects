@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Interfaces Assignment\bin\Debug\Interfaces Assignment.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Interfaces Assignment\bin\Debug\Interfaces Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Interfaces Assignment\bin\Debug\Interfaces Assignment.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Interfaces Assignment\obj\Debug\Interfaces Assignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Interfaces Assignment\obj\Debug\Interfaces Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Interfaces Assignment\obj\Debug\Interfaces Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Interfaces Assignment\obj\Debug\Interfaces Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\myConsoleProject\Interfaces Assignment\obj\Debug\Interfaces Assignment.pdb
