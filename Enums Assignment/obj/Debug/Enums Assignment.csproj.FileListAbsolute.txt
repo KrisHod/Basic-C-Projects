@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Enums Assignment\bin\Debug\Enums Assignment.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Enums Assignment\bin\Debug\Enums Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Enums Assignment\bin\Debug\Enums Assignment.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Enums Assignment\obj\Debug\Enums Assignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Enums Assignment\obj\Debug\Enums Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Enums Assignment\obj\Debug\Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Enums Assignment\obj\Debug\Enums Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Enums Assignment\obj\Debug\Enums Assignment.pdb
