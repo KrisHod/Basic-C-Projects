@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.pdb
