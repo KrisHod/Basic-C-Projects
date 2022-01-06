@@ -90,7 +90,17 @@
       "ProjectGuid": "c16822b7-013b-40a6-81bb-59203db13f82",
       "DisplayName": "Abstract Classes Assignment",
       "ColorIndex": 0
+    },
+    "8663d7db-6ee2-44d2-bc14-2c37e981107a": {
+      "ProjectGuid": "8663d7db-6ee2-44d2-bc14-2c37e981107a",
+      "DisplayName": "Generics Assignment",
+      "ColorIndex": 1
+    },
+    "c4af7f09-6f4d-4674-93f4-2c3991ea5699": {
+      "ProjectGuid": "c4af7f09-6f4d-4674-93f4-2c3991ea5699",
+      "DisplayName": "Enums Assignment",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
