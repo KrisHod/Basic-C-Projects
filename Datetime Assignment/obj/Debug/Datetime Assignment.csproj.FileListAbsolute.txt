@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Datetime Assignment\bin\Debug\Datetime Assignment.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Datetime Assignment\bin\Debug\Datetime Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Datetime Assignment\bin\Debug\Datetime Assignment.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Datetime Assignment\obj\Debug\Datetime Assignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Datetime Assignment\obj\Debug\Datetime Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Datetime Assignment\obj\Debug\Datetime Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Datetime Assignment\obj\Debug\Datetime Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Datetime Assignment\obj\Debug\Datetime Assignment.pdb
