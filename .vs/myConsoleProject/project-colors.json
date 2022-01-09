@@ -100,7 +100,22 @@
       "ProjectGuid": "c4af7f09-6f4d-4674-93f4-2c3991ea5699",
       "DisplayName": "Enums Assignment",
       "ColorIndex": 2
+    },
+    "11adc24a-2eef-43f0-ac63-cba69e0e442b": {
+      "ProjectGuid": "11adc24a-2eef-43f0-ac63-cba69e0e442b",
+      "DisplayName": "Structs Assignment",
+      "ColorIndex": 3
+    },
+    "1ec906c8-9ae9-4255-86d4-953582f555af": {
+      "ProjectGuid": "1ec906c8-9ae9-4255-86d4-953582f555af",
+      "DisplayName": "Lambda Expression Assignment",
+      "ColorIndex": 4
+    },
+    "b414f093-0c46-44c3-b20d-af648962cd23": {
+      "ProjectGuid": "b414f093-0c46-44c3-b20d-af648962cd23",
+      "DisplayName": "TwentyOne",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }

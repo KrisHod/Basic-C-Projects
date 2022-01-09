@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\File IO Assignment\obj\Debug\File IO Assignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\File IO Assignment\obj\Debug\File IO Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\File IO Assignment\obj\Debug\File IO Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\File IO Assignment\bin\Debug\File IO Assignment.exe.config
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\File IO Assignment\bin\Debug\File IO Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\File IO Assignment\bin\Debug\File IO Assignment.pdb
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\File IO Assignment\obj\Debug\File IO Assignment.exe
+C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\File IO Assignment\obj\Debug\File IO Assignment.pdb

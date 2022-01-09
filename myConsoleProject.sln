@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs Assignment", "Struc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda Expression Assignment", "Lambda Expression Assignment\Lambda Expression Assignment.csproj", "{1EC906C8-9AE9-4255-86D4-953582F555AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "TwentyOne\TwentyOne.csproj", "{B414F093-0C46-44C3-B20D-AF648962CD23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File IO Assignment", "File IO Assignment\File IO Assignment.csproj", "{DA25B61B-A696-4CAF-B58A-FE1BEFCE7C33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{1EC906C8-9AE9-4255-86D4-953582F555AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EC906C8-9AE9-4255-86D4-953582F555AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EC906C8-9AE9-4255-86D4-953582F555AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B414F093-0C46-44C3-B20D-AF648962CD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B414F093-0C46-44C3-B20D-AF648962CD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B414F093-0C46-44C3-B20D-AF648962CD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B414F093-0C46-44C3-B20D-AF648962CD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA25B61B-A696-4CAF-B58A-FE1BEFCE7C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA25B61B-A696-4CAF-B58A-FE1BEFCE7C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA25B61B-A696-4CAF-B58A-FE1BEFCE7C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA25B61B-A696-4CAF-B58A-FE1BEFCE7C33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
