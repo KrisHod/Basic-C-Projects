@@ -130,7 +130,12 @@
       "ProjectGuid": "7a773fe7-9f65-4d50-8857-d9e53380ac81",
       "DisplayName": "Casino",
       "ColorIndex": 8
+    },
+    "2e3769e7-e888-4a23-b0e6-1ae0042350ee": {
+      "ProjectGuid": "2e3769e7-e888-4a23-b0e6-1ae0042350ee",
+      "DisplayName": "Additional Features Assignment",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }

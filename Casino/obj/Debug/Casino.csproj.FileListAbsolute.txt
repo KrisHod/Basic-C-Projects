@@ -1,4 +1,3 @@
-C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
 C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Casino\bin\Debug\Casino.dll
 C:\Users\Zver\Desktop\Basic_C#_Programs\Basic-C-Sharp-Projects\Casino\bin\Debug\Casino.pdb
