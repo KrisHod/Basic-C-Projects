@@ -125,7 +125,12 @@
       "ProjectGuid": "9705caa7-4c05-4309-9a35-994c6019f05e",
       "DisplayName": "Datetime Assignment",
       "ColorIndex": 7
+    },
+    "7a773fe7-9f65-4d50-8857-d9e53380ac81": {
+      "ProjectGuid": "7a773fe7-9f65-4d50-8857-d9e53380ac81",
+      "DisplayName": "Casino",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
